@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Timbre Digital</title>
+</head>
+<body>
+<body style="background-image: url('https://cdn.pixabay.com/photo/2021/02/19/17/57/camouflage-6031029_1280.png');background-size: cover; background-position: center;;"></body>
+<h1> <center> <p style="color: rgb(255, 255, 255); background-color: rgb(13, 44, 18); display: inline-block; padding: 10px;">Control de ESP</p> </center> </h1>
+<h2> <center> <p style="color: rgb(255, 255, 255); background-color: rgb(13, 44, 18); display: inline-block; padding: 10px;">Esta página proporciona el control del sistema de un timbre con 2 pulsadores.</p> </center></h2>
+
+<a href="http://127.0.0.1:5500/ON"> <center> <br> <button style="width: 120px; height: 120px;border-radius: 50%; background-color: rgb(18, 235, 11); color: rgb(0, 0, 0)"> <h2>ON</h2> </button></center></a> 
+
+<a href="http://127.0.0.1:5500/OFF"> <center><br> <button style="width: 120px; height: 120px;border-radius: 50%; background-color: crimson;color: rgb(0, 0, 0)"> <h2>OFF</h2> </button></a>
+<h2><p style="color: rgb(255, 255, 255); background-color: rgb(13, 44, 18); display: inline-block; padding: 10px;">En el pulsador siguiente podremos activar el timbre en caso de emergencia.</p> </center></h2>
+
+<a href="http://127.0.0.1:5500/ON"> <center> <br> <button style="width: 120px; height: 120px;border-radius: 50%; background-color: rgb(41, 10, 153);color: rgb(255, 255, 255)"> <h2>TIMBRE</h2> </button></a>
+<h2><p style="color: rgb(255, 255, 255); background-color: rgb(13, 44, 18); display: inline-block; padding: 10px;">A su vez contara con una aplicación que permitira el control de la misma</p> </center></h2>
+<h2><a href="https://drive.google.com/file/d/1dbKEfhLcPi3F2QsZVPu5R9tkZI4eOVm-/view?usp=drivesdk" style="color: rgb(255, 251, 251);background-color: rgb(13, 44, 18);">Ir a la aplicación </p></h2>
+</html>
